@@ -1,4 +1,4 @@
-### <h2>hi!, it's antara.</h2>
+### <h2>Yo</h2>
 <img align="center" width="80" src="https://octodex.github.com/images/hula_loop_octodex03.gif">
 <!--
 **nocaptara/nocaptara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
